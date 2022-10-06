@@ -1,0 +1,11 @@
+Drosophila_ananassae	6.130504778
+Drosophila_erecta	6.005958452
+Drosophila_grimshawi	4.00854184
+Drosophila_melanogaster	5.971632633
+Drosophila_mojavensis	6.112867667
+Drosophila_persimilis	3.818815331
+Drosophila_sechellia	3.846974063
+Drosophila_simulans	6.593778759
+Drosophila_virilis	6.120256155
+Drosophila_willistoni	4.806142618
+Drosophila_yakuba	6.278418833

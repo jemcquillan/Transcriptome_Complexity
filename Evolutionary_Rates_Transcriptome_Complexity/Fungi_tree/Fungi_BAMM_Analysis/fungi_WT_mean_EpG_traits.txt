@@ -1,0 +1,16 @@
+Agaricomycetes	5.642675304
+Chytridiomycetes	4.619082981
+Dothideomycetes	2.82895854
+Eurotiomycetes	2.815165526
+Leotiomycetes	2.932052954
+Malasseziomycetes	2.223227035
+Microbotryomycetes	6.163096529
+Neocallimastigomycetes	4.837608382
+Pneumocystidomycetes	5.712411441
+Pucciniomycetes	4.928742699
+Saccharomycetes	1.191541224
+Schizosaccharomycetes	2.034785861
+Sordariomycetes	2.875903735
+Tremellomycetes	5.612412238
+Ustilaginomycetes	1.48796687
+Wallemiomycetes	3.3526

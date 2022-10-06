@@ -1,0 +1,77 @@
+Talaromyces marneffei ATCC 18224
+[Candida] glabrata
+Candida dubliniensis CD36
+Cryptococcus neoformans var. neoformans JEC21
+Schizophyllum commune H4-8
+Colletotrichum graminicola M1.001
+Coccidioides immitis RS
+Fusarium verticillioides 7600
+Schizosaccharomyces octosporus yFS286
+Paracoccidioides lutzii Pb01
+Trichoderma atroviride IMI 206040
+Spizellomyces punctatus DAOM BR117
+Sordaria macrospora k-hell
+Coprinopsis cinerea okayama7#130
+Batrachochytrium dendrobatidis JAM81
+Melampsora larici-populina 98AG31
+Chaetomium thermophilum var. thermophilum DSM 1495
+Yamadazyma tenuis ATCC 10573
+Leptosphaeria maculans JN3
+Stereum hirsutum FP-91666 SS1
+Punctularia strigosozonata HHB-11173 SS5
+Fomitiporia mediterranea MF3/22
+Coniophora puteana RWD-64-598 SS2
+Tremella mesenterica DSM 1558
+Dichomitus squalens LYAD-421 SS1
+Coniosporium apollinis CBS 100218
+Phanerochaete carnosa HHB-10118-sp
+Fibroporia radiculosa
+Heterobasidion irregulare TC 32-1
+Ustilago maydis 521
+Gloeophyllum trabeum ATCC 11539
+Bipolaris maydis ATCC 48331
+Wallemia ichthyophaga EXF-994
+Glarea lozoyensis ATCC 20868
+Kalmanozyma brasiliensis GHG001
+Kwoniella pini CBS 10737
+Pestalotiopsis fici W106-1
+Kuraishia capsulata CBS 1993
+Exophiala aquamarina CBS 119918
+Fonsecaea pedrosoi CBS 271.37
+Rhinocladiella mackenziei CBS 650.93
+Verruconis gallopava
+Lachancea lanzarotensis
+Cutaneotrichosporon oleaginosum
+Malassezia pachydermatis
+Rhodotorula graminis WP1
+Pneumocystis jirovecii RU7
+Xylona heveae TC161
+Cordyceps fumosorosea ARSEF 2679
+Pichia membranifaciens NRRL Y-2026
+Babjeviella inositovora NRRL Y-12698
+Ascoidea rubescens DSM 1968
+Cyberlindnera jadinii NRRL Y-1542
+Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+Diplodia corticola
+Penicilliopsis zonata CBS 506.65
+Kockovaella imperatae
+Lobosporangium transversale
+Postia placenta MAD-698-R-SB12
+Aspergillus novofumigatus IBT 16806
+Phycomyces blakesleeanus NRRL 1555(-)
+Uncinocarpus reesii 1704
+Cladophialophora carrionii CBS 160.54
+Saccharomyces cerevisiae YJM1573
+Gonapodya prolifera JEL478
+Ascosphaera apis ARSEF 7405
+Hanseniaspora osmophila
+Emergomyces pasteurianus Ep9510
+Neolecta irregularis DAH-3
+Batrachochytrium salamandrivorans
+Anaeromyces robustus
+Piromyces finnis
+Neocallimastix californiae
+Rhizoclosmatium globosum
+Erysiphe pulchra
+Psilocybe cyanescens
+[Candida] intermedia
