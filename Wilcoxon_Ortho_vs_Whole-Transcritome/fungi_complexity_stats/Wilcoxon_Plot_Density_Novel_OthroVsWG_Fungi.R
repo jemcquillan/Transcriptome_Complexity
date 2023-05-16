@@ -93,7 +93,7 @@ for(i in 1:length(ortho_EpT)){
     labs(title = paste0(file_name,'\n','TpG'))
   plot_novel_TpG_trunc[[i]] <- novel_tpg_plot_trunc
   
-  #TpG ploits for novel genes
+  #TpG plots for novel genes
   novel_tpg_plot <- ggplot(novel_TpG_EpG_df, aes_string('num_transcript', fill = 'group', color = 'group'), alpha(.25)) +
     geom_density(bw = "bcv",color=3,fill=3,alpha=0.4) + 
     labs(title = paste0(file_name,'\n','EpT'), subtitle = paste0('Novel Genes'))

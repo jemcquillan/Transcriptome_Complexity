@@ -4,6 +4,7 @@ library(ggpubr)
 library(stringr)
 library(poolr)
 
+#setwd("/Volumes/GoogleDrive/My Drive/OrthoDB/Ortholog_Final_Files/Deuterostome_Complexity/")
 setwd("<your path here>")
 
 # Creates a list of files from the directory that has the appropriate metrics of novel genes

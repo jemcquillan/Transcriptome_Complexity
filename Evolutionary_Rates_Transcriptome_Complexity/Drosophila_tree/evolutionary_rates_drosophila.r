@@ -4,7 +4,7 @@ library(dplyr)
 setwd("/Volumes/GoogleDrive/My\ Drive/OrthoDB/Ortholog_Final_Files/Drosophila_Complexity/Drosophila_tree")
 
 # Full dataset files for Drosophila, the tree and the traits, to prepare
-drosophila_traits_WG = read.table("Drosophila_WG_gtf_species_full_list.csv", sep = ",", row.names=1, header = TRUE)
+drosophila_traits_WG = read.table("Drosophila_WT_gtf_species_full_list.csv", sep = ",", row.names=1, header = TRUE)
 drosophila_traits_ortho = read.table("Drosophila_Ortholog_gtf_species_full_list.csv", sep = ",", row.names=1, header = TRUE)
 colnames(drosophila_traits_WG) <- paste0("WG_", colnames(drosophila_traits_WG))
 colnames(drosophila_traits_ortho) <- paste0("ortho_", colnames(drosophila_traits_ortho))
@@ -63,3 +63,21 @@ posthoc(EpG_outpt)
 
 contMap(full_dros_tree,EpT_outpt,outline=FALSE)
 contMap(full_dros_tree,ortho_EpT,outline=FALSE)
+
+# TpG Tree
+plotTree.wBars(Trait_Tree_WT$tree,WT_TpG,method="plotSimmap",
+               tip.labels=TRUE,fsize=0.7,colors=Trait_Tree_WT$cols)
+add.color.bar(200.0,Trait_Tree_WT$cols,title="trait value",lims=Trait_Tree_WT$lims,prompt=FALSE,
+              x=0.5*par()$usr[1],y=0.5*par()$usr[3])
+
+# EpT Tree
+plotTree.wBars(Trait_Tree_WT$tree,WT_EpT,method="plotSimmap",
+               tip.labels=TRUE,fsize=0.7,colors=Trait_Tree_WT$cols)
+add.color.bar(200.0,Trait_Tree_WT$cols,title="trait value",lims=Trait_Tree_WT$lims,prompt=FALSE,
+              x=0.5*par()$usr[1],y=0.5*par()$usr[3])
+
+# EpG Tree
+plotTree.wBars(Trait_Tree_WT$tree,WT_EpG,method="plotSimmap",
+               tip.labels=TRUE,fsize=0.7,colors=Trait_Tree_WT$cols)
+add.color.bar(200.0,Trait_Tree_WT$cols,title="trait value",lims=Trait_Tree_WT$lims,prompt=FALSE,
+              x=0.5*par()$usr[1],y=0.5*par()$usr[3])
